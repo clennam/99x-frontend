@@ -1,5 +1,7 @@
 # 99xfrontend
 
+Vue.js frontend assignment for 99X interview process.
+
 ## Project setup
 ```
 npm install
