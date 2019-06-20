@@ -1,0 +1,94 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "img": "jsgoodparts",
+            "title": "Javascript: The Good Parts",
+            "author": "Douglas Crockford",
+            "type": "Print Paperback",
+            "rating": 4.5,
+            "price": 11.29
+        },
+        {
+            "id": 2,
+            "img": "pythoncrashcourse",
+            "title": "Python Crash Course: A Hands-On, Project-Based Introduction to Programming",
+            "author": "Eric Matthes",
+            "type": "Print Paperback",
+            "rating": 4.5,
+            "price": 24.16
+        },
+        {
+            "id": 3,
+            "img": "selftaughtprogrammer",
+            "title": "The Self-Taught Programmer: The Definitive Guide to Programming Professionally",
+            "author": "Cory Althoff",
+            "type": "Print Paperback",
+            "rating": 4.5,
+            "price": 16.98
+        },
+        {
+            "id": 4,
+            "img": "cleancode",
+            "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+            "author": "Robert C. Martin",
+            "type": "Print Paperback",
+            "rating": 4.5,
+            "price": 47.49
+        },
+        {
+            "id": 5,
+            "img": "crackingcodinginterview",
+            "title": "Cracking the Coding Interview: 189 Programming Questions and Solutions",
+            "author": "GAyle Laakmann McDowell",
+            "type": "Print Paperback",
+            "rating": 4.5,
+            "price": 32.35
+        },
+        {
+            "id": 6,
+            "img": "softskills",
+            "title": "Soft Skills: The Software Developer's Life Manual",
+            "author": "John Sonmez, Manning Publications",
+            "type": "Audible Audiobook",
+            "rating": 4.5,
+            "price": 24.95
+        },
+        {
+            "id": 7,
+            "img": "linuxprogramminginterface",
+            "title": "The Linux Programming Interface: A Linux and UNIX System Programming Handbook",
+            "author": "Michael Kerrisk",
+            "type": "Print Hardcover",
+            "rating": 5.0,
+            "price": 58.30
+        },
+        {
+            "id": 8,
+            "img": "c++gameprogramming",
+            "title": "Beginning C++ Through Game Programming",
+            "author": "Michael Dawson",
+            "type": "Print Paperback",
+            "rating": 4.0,
+            "price": 24.88
+        },
+        {
+            "id": 9,
+            "img": "gameprogrammingpatterns",
+            "title": "Game Programming Patterns",
+            "author": "Robert Nystrom",
+            "type": "Print Paperback",
+            "rating": 5,
+            "price": 35.96
+        },
+        {
+            "id": 10,
+            "img": "cprogramminglanguage",
+            "title": "The C Programming Language",
+            "author": "Brian W. Kernighan, Dennis M. Ritchie",
+            "type": "Print Paperback",
+            "rating": 4.5,
+            "price": 5.21
+        }
+    ]
+}
