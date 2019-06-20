@@ -7,7 +7,7 @@
             "author": "Douglas Crockford",
             "type": "Print Paperback",
             "rating": 4.5,
-            "price": 11.29
+            "price": 2000.00
         },
         {
             "id": 2,
@@ -16,7 +16,7 @@
             "author": "Eric Matthes",
             "type": "Print Paperback",
             "rating": 4.5,
-            "price": 24.16
+            "price": 4270.00
         },
         {
             "id": 3,
@@ -25,7 +25,7 @@
             "author": "Cory Althoff",
             "type": "Print Paperback",
             "rating": 4.5,
-            "price": 16.98
+            "price": 3000.00
         },
         {
             "id": 4,
@@ -34,7 +34,7 @@
             "author": "Robert C. Martin",
             "type": "Print Paperback",
             "rating": 4.5,
-            "price": 47.49
+            "price": 8400.00
         },
         {
             "id": 5,
@@ -43,7 +43,7 @@
             "author": "GAyle Laakmann McDowell",
             "type": "Print Paperback",
             "rating": 4.5,
-            "price": 32.35
+            "price": 5720.00
         },
         {
             "id": 6,
@@ -52,7 +52,7 @@
             "author": "John Sonmez, Manning Publications",
             "type": "Audible Audiobook",
             "rating": 4.5,
-            "price": 24.95
+            "price": 4410.00
         },
         {
             "id": 7,
@@ -61,7 +61,7 @@
             "author": "Michael Kerrisk",
             "type": "Print Hardcover",
             "rating": 5.0,
-            "price": 58.30
+            "price": 10310.00
         },
         {
             "id": 8,
@@ -70,7 +70,7 @@
             "author": "Michael Dawson",
             "type": "Print Paperback",
             "rating": 4.0,
-            "price": 24.88
+            "price": 4400.00
         },
         {
             "id": 9,
@@ -79,7 +79,7 @@
             "author": "Robert Nystrom",
             "type": "Print Paperback",
             "rating": 5,
-            "price": 35.96
+            "price": 6360.00
         },
         {
             "id": 10,
@@ -88,7 +88,7 @@
             "author": "Brian W. Kernighan, Dennis M. Ritchie",
             "type": "Print Paperback",
             "rating": 4.5,
-            "price": 5.21
+            "price": 930.00
         }
     ]
 }

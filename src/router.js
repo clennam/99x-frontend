@@ -6,10 +6,17 @@ Vue.use(Router)
 
 export default new Router({
   routes: [
+    { path: '/', redirect: '/catalogue' },
     {
-      path: '/',
+      path: '/catalogue',
       name: 'catalogue',
       component: Catalogue
+    },
+    {
+      path: '/catalogue/:search',
+      name: 'catalogueSearch',
+      component: Catalogue,
+      props: true
     },
     {
       path: '/cart',
@@ -17,7 +24,7 @@ export default new Router({
       component: () => import('./views/Cart.vue')
     },
     {
-      path: '/product',
+      path: '/product/:id',
       name: 'productDetails',
       component: () => import('./views/ProductDetails.vue')
     },
