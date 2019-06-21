@@ -1,6 +1,6 @@
 <template>
   <b-container fluid class="catalogue">
-    <b-row align-h="center">
+    <b-row>
       <b-col sm="auto" v-for="book in books" v-bind:key="book.id">
         <ProductCard
           :id="book.id"

@@ -5,14 +5,15 @@ Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: {
-    books: []
+    books: [],
+    orderList: []
   },
   mutations: {
     fill (state, books) {
       state.books = books;
+    },
+    addOrder(state, orderId) {
+      state.orderList.push(orderId);
     }
-  },
-  actions: {
-
   }
 })

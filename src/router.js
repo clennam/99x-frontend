@@ -19,14 +19,21 @@ export default new Router({
       props: true
     },
     {
+      path: '/product/:id',
+      name: 'productDetails',
+      component: () => import('./views/ProductDetails.vue'),
+      props: true
+    },
+    {
       path: '/cart',
       name: 'cart',
       component: () => import('./views/Cart.vue')
     },
     {
-      path: '/product/:id',
-      name: 'productDetails',
-      component: () => import('./views/ProductDetails.vue')
-    },
+      path: '/cart/add/:id',
+      name: 'cartAddItem',
+      component: () => import('./views/Cart.vue'),
+      props: true
+    }
   ]
 })

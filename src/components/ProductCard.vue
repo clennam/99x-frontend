@@ -6,7 +6,7 @@
     img-top
     tag="article"
     style="max-width: 20rem;"
-    class="mb-2"
+    class="mb-2 text-center"
     bg-variant="white"
     text-variant="dark"
   >
